@@ -81,7 +81,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="807" />
+    <option name="x" value="768" />
     <option name="y" value="48" />
     <option name="width" value="1221" />
     <option name="height" value="1066" />
@@ -351,7 +351,7 @@
       <option name="presentableId" value="Default" />
       <updated>1517289828925</updated>
       <workItem from="1517289833207" duration="13028000" />
-      <workItem from="1517359757924" duration="588000" />
+      <workItem from="1517359757924" duration="702000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1517303426973</created>
@@ -371,10 +371,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13616000" />
+    <option name="totallyTimeSpent" value="13730000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="807" y="48" width="1221" height="1066" extended-state="0" />
+    <frame x="768" y="48" width="1221" height="1066" extended-state="0" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
